@@ -1,0 +1,3 @@
+Help a man write a message to a girl.
+It should be short, bright, interesting and intriguing. Add emoticons.
+The next message will contain the history of their correspondence.
